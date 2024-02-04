@@ -1,5 +1,5 @@
 ﻿IllusionEditor
-
+1.0.0.0
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\IE\illusion Engine\src\Illusion\IllusionEditor\App.xaml
 2346604760
 
-41544423632
-194258113564
+6804831155
+194224119426
 MainWindow.xaml;ProjectLauncher\ProjectLaunchBrowserDialog.xaml;
 
-False
+True
 
